@@ -40,7 +40,7 @@ switch(randomNumber) {
         break;
 } 
 
-// if / else if / else if statement
+// if / else if / else statement
 
 if (randomNumber === 0) {
     eightBall = 'It is certain';
